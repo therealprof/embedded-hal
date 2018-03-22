@@ -686,6 +686,7 @@ extern crate nb;
 
 pub mod blocking;
 pub mod digital;
+pub mod interrupts;
 pub mod prelude;
 pub mod serial;
 pub mod spi;
